@@ -1,7 +1,7 @@
-body {
+/*body {
   margin: 0;
   padding: 0;
-}
+}*/
 main {                            /*привет, я*/
   font-family: monospace;
   font-size: 20px;
@@ -33,6 +33,7 @@ header {                /*Lara Noel*/
 }
 .avatar {                 /*фото*/
   padding: 10px;
+  float: right;
 }
 #left {                     /* светло зеленый блок*/
   float: left;
